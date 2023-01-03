@@ -1,0 +1,10 @@
+.containerPosted{
+background-color: #bfffb6;
+padding: 10px;
+margin: 10px;
+border-radius: 10px; 
+
+}
+:hover.containerPosted{
+    background-color: #e8ffe5;
+}
